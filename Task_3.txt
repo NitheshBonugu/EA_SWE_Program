@@ -1,0 +1,11 @@
+Here are the steps that we will need to take:
+
+1.	Install Unreal Engine. Keep in mind you must have a compatible system.
+2.	Launch Unreal Project Browser.
+3.	Choose Blueprint / C++ Template.
+4.	Choose the device: Desktop/Console or Mobile/Tablet.
+5.	Choose Max Quality or Scalable 2D/3D.
+6.	Store the Project.
+7.	Open the Project.
+
+And now, you can carry on with your project, and play with it.
